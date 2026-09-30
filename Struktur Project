@@ -1,0 +1,11 @@
+monsterwa/
+├── config.py
+├── database.py
+├── bot.py
+├── app.py              # Flask dashboard
+├── requirements.txt
+├── templates/
+│   ├── login.html
+│   ├── dashboard.html
+│   └── users.html
+└── monsterwa.db        # auto-created
